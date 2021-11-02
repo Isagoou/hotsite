@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@200&display=swap');
+*{ 
+    margin: 0px;
+    padding: 0px;
+}
+
+body{ 
+    background-image:url(imagem1.jpg);
+    background-size: cover;
+    
+}
+
+.titulo{ 
+    font-family:"Barlow Condensed" ;
+    color: white;
+    position: relative;
+    text-align: center;
+    margin-top: 10%;
+    font-size: xx-large;  
+     
+}
+
+.cabeçalho{
+    font-family: "Josefina Sans";
+    color: white;
+    text-align: center;
+    margin-top: -28%;
+    font-size: x-large;
+}
+
+.descriçao{ 
+    font-family: "Urbanist";
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    font-size: large;
+    text-shadow: 5ch;
+}
+
+.botao{ 
+    text-align: center;
+    margin-top: 8%;
+    
+}
